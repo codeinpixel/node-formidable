@@ -1,4 +1,4 @@
-dable = require('formidable');
+var formidable = require('formidable');
 var http = require('http');
 var util = require('util');
 var AWS      = require('aws-sdk');
